@@ -35,7 +35,7 @@ Se redujeron las variables de *30 a 4* manteniendo una precisión muy alta en la
 
 ---
 
-## 📌 Ejercicio 2: Optimización de Hiperparámetros (Hyperparameter Optimization)  
+## Ejercicio 2: Optimización de Hiperparámetros (Hyperparameter Optimization)  
 
 ### Descripción  
 Se aplicó un *algoritmo genético* para optimizar los hiperparámetros *C* y *gamma* de un modelo *SVM (Support Vector Machine)*.  
